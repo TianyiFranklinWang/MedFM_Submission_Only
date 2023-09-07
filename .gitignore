@@ -1,11 +1,11 @@
 ### Python template
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+#__pycache__/
+#*.py[cod]
+#*$py.class
 
 # C extensions
-*.so
+#*.so
 
 # Distribution / packaging
 .Python
