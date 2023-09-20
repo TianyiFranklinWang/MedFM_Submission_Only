@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MedFM_Submission_Only
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tianyi
+    family-names: Wang
+    email: 2019302443@mail.nwpu.edu.cn
+    orcid: 'https://orcid.org/0000-0002-5318-7361'
+    affiliation: >-
+      National Engineering Laboratory for Integrated
+      Aero-Space-Ground-Ocean Big Data Application
+      Technology
+  - given-names: Mengkang
+    family-names: Lu
+    email: lmk@mail.nwpu.edu.cn
+    affiliation: >-
+      National Engineering Laboratory for Integrated
+      Aero-Space-Ground-Ocean Big Data Application
+      Technology
+  - given-names: Yong
+    family-names: Xia
+    email: yxia@nwpu.edu.cn
+    affiliation: >-
+      National Engineering Laboratory for Integrated
+      Aero-Space-Ground-Ocean Big Data Application
+      Technology
+repository-code: >-
+  https://github.com/TianyiFranklinWang/MedFM_Submission_Only
+license: Apache-2.0
