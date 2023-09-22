@@ -57,7 +57,7 @@ python -m pip install -r requirements.txt
           │   └── ***.png
           └── ***.txt
   ```
-  *Tips: Use `ln -s TARGET LINK_NAME` to create symbolic links to ease your work.*
+  *Tips: Using `ln -s TARGET LINK_NAME` to create symbolic links may ease your work if you already have your data elsewhere.*
 
 ### Download model weight
 
